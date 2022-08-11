@@ -1,0 +1,46 @@
+.card {
+    background-color: aquamarine;
+    width: 350px;
+    height: 600px;
+    border-radius: 10%;
+    border: 15px solid #000;
+}
+.barra0{
+    margin-top: -22px;
+    margin-left: 50px;
+    position: absolute;
+    background-color: #000;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+}
+
+.barra{
+    margin-top: -10px;
+    margin-left: 100px;
+    position: absolute;
+    background-color: rgb(39, 38, 38);
+    border-radius: 20px;
+    width: 80px;
+    height: 10px;
+}
+.barra2{
+
+    margin-left: 70px;
+    margin-top: -10px;
+    position: absolute;
+    background-color: rgb(77, 73, 73);
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.barra3{
+
+    margin-left: 200px;
+    margin-top: -10px;
+    position: absolute;
+    background-color: rgb(77, 73, 73);
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
